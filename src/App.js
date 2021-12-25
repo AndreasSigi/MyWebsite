@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import gremlin from "../src/gremlin.jpg"
+import gremlin from "../src/gremlin_trans.png"
 
 function App() {
   return (
