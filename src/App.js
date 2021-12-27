@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={gremlin}/>
+        <img src={gremlin} alt="gremlin"/>
         <p>
           Welcome to bots website, have a code...
         </p>
