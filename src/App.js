@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Get Code
+          RGFT - TQ6T - 3YP6 - YT53 - LZU4 
         </a>
       </header>
     </div>
