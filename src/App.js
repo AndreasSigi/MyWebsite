@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          RGFT - TQ6T - 3YP6 - YT53 - LZU4 
+          RGFT - QNXJ - 32SV - H8SG - VJM6 
         </a>
       </header>
     </div>
